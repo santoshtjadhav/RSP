@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSP.APIs", "RSP.APIs\RSP.APIs.csproj", "{6CC9510D-F473-45EA-9707-663F2A9AE84D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSP", "RSP\RSP.csproj", "{5C382B75-EDF1-44B7-A7E3-431A0274064A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC9510D-F473-45EA-9707-663F2A9AE84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC9510D-F473-45EA-9707-663F2A9AE84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC9510D-F473-45EA-9707-663F2A9AE84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC9510D-F473-45EA-9707-663F2A9AE84D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C382B75-EDF1-44B7-A7E3-431A0274064A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C382B75-EDF1-44B7-A7E3-431A0274064A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C382B75-EDF1-44B7-A7E3-431A0274064A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C382B75-EDF1-44B7-A7E3-431A0274064A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FF0B862-FF9E-4A28-8038-343452D0DF70}
+	EndGlobalSection
+EndGlobal
